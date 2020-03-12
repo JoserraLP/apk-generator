@@ -19,4 +19,10 @@ https://openapi-generator-spilab.herokuapp.com/swagger-ui.html#/servers/generate
   }
 }
 ```
-                
+
+6. Once the info is added, click on Execute
+7. Check the response body and copy the value of the "link" tag on the response code 200,
+e.g. https://openapi-generator-spilab.herokuapp.com/api/gen/download/
+8. Download the file, extract it and import to Android Studio
+
+Now you have a **generated Android Studio project**!!!
